@@ -1,0 +1,6 @@
+{
+  "name": "VEXO-AI",
+  "description": "VEXO-AI — Advanced ChatGPT-style AI platform featuring multi-modal chat, image generator studio, voice studio, file analysis, canvas workspace, and deep personalization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
